@@ -1,0 +1,16 @@
+server:
+    hostname: beautifulinsanitymush.com
+
+    port: 4201
+    
+    websocket_port: 4202
+
+    web_portal_port: 80
+    
+    engine_api_port: 4203
+    
+    use_https: false
+    
+    certificate_file_path: ''
+    
+    private_key_file_path: ''
